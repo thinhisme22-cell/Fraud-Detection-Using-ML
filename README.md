@@ -1,3 +1,19 @@
 # Fraud-Detection-Using-ML
 ## Overview
 According to Nasdaq Verafin’s 2026 Global Financial Crime Report, global fraud causes nearly $580 billion in losses every year. This is a serious and growing problem, driven by more advanced criminal networks, security weaknesses, and the increasing misuse of AI. At the same time, AI can also be used as a powerful tool to fight back. If criminals can use AI to commit fraud, then financial institutions and analysts can use machine learning to monitor transactions, detect suspicious patterns, and reduce fraud more effectively. This project is built around that idea. The goal is to analyze financial transaction data, understand common fraud patterns, and train multiple classification models to compare their performance in detecting fraudulent transactions.
+## Data Source
+The dataset used in this project was retrieved from Kaggle, an open-source platform for datasets and machine learning projects. It contains 1,048,575 rows and 11 attributes related to financial transactions.
+The dataset includes information such as transaction type, transaction amount, account balances before and after each transaction, and whether the transaction was identified as fraudulent.
+The columns in the dataset include:
+step
+type
+amount
+nameOrig
+oldbalanceOrg
+newbalanceOrig
+nameDest
+oldbalanceDest
+newbalanceDest
+isFraud
+isFlaggedFraud
+Dataset link: [Fraud](https://www.kaggle.com/datasets/tushar9999/fraud-detection/data)
