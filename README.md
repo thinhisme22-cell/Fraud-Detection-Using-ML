@@ -5,8 +5,8 @@ According to Nasdaq Verafin’s 2026 Global Financial Crime Report, global fraud
 The dataset used in this project was retrieved from Kaggle, an open-source platform for datasets and machine learning projects. It contains 1,048,575 rows and 11 attributes related to financial transactions.
 The dataset includes information such as transaction type, transaction amount, account balances before and after each transaction, and whether the transaction was identified as fraudulent.
 The columns in the dataset include:
-step
-type
+* step
+* type
 amount
 nameOrig
 oldbalanceOrg
