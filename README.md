@@ -18,3 +18,9 @@ The columns in the dataset include:
 * isFlaggedFraud
 
 Dataset link: [Fraud](https://www.kaggle.com/datasets/tushar9999/fraud-detection/data)
+## Algorithm
+1. Decision Tree
+2. Logistic Regression
+3. XGBoost (eXtreme Gradient Boosting)
+4. LightGBM (Light Gradient Boosting Machine)
+
