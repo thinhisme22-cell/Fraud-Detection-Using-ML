@@ -7,13 +7,13 @@ The dataset includes information such as transaction type, transaction amount, a
 The columns in the dataset include:
 * step
 * type
-amount
-nameOrig
-oldbalanceOrg
-newbalanceOrig
-nameDest
-oldbalanceDest
-newbalanceDest
-isFraud
-isFlaggedFraud
+* amount
+* nameOrig
+* oldbalanceOrg
+* newbalanceOrig
+* nameDest
+* oldbalanceDest
+* newbalanceDest
+* isFraud
+* isFlaggedFraud
 Dataset link: [Fraud](https://www.kaggle.com/datasets/tushar9999/fraud-detection/data)
